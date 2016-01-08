@@ -3,12 +3,12 @@
  * Project Eluler: Almost equilateral triangles - Problem 94
  */
 
-p.f94 = function(limite){
 /**
  * Triangulos casi iguales
  *
  * @param limite Number
  */
+p.f94 = function(limite){
 	if(!limite) limite = 1000000000;
 	var x = 2;
 	var y = 1;
